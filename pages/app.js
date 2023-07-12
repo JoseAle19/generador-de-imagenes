@@ -1,4 +1,4 @@
-import './generator.css'
+import './index.module.css'
 export const app = ({component, propts}) => {
 
   return (

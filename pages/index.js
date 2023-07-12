@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import {  useState } from "react";
 import Axios from "axios";
 import styles from "./index.module.css";
 const Index = () => {
